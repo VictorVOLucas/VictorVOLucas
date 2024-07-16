@@ -1,4 +1,4 @@
-### Olá ! Sou o Victor Vinicius !😄
+### Olá ! Sou o Victor Vinicius !
 
 [![Outlook](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](https://outlook.office.com/mail/deeplink/compose?mailtouri=mailto%3Avictorvina%40hotmail.com)
 [![Outlook](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/victor-lucas-0750021b8/)
